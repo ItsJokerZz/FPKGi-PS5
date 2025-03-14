@@ -1,6 +1,5 @@
 # FPKGi - A Server-Based PS4 Content Installer  
 
-#### NOTE: THIS ISN'T IN A CURRENT FUNCTIONING STATE AMD USAGE MAY VARY, BEWARE!
 #### This repository will be archived and merged into the original with full support, once ready.
 
 ### Reporting Issues
